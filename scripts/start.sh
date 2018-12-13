@@ -1,0 +1,1 @@
+docker-compose -f dds.yml up --build -d
